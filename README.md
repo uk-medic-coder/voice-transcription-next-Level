@@ -7,3 +7,6 @@ I have been experimenting with it and found it's accuracy to be amazing.
 
 Here is the python file I have been using to transcribe my podcasts to readable format.
 
+Full OpenAI whisper installation instructions (PIP, ffmpeg) here:
+
+https://github.com/openai/whisper
